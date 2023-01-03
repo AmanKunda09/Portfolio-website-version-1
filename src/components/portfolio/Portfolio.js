@@ -39,6 +39,13 @@ const data = [
     github: "http://github.com",
     demo: "http://github.com",
   },
+  {
+    id: 6,
+    image: IMG,
+    title: "This is a portfolio item title",
+    github: "http://github.com",
+    demo: "http://github.com",
+  },
 ];
 
 const Portfolio = () => {
