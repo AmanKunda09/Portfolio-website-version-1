@@ -25,8 +25,8 @@ const About = () => {
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Users</h5>
+              <small>10000+ Worldwide</small>
             </article>
 
             <article className="about__card">
@@ -36,10 +36,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia
-            repellat dolore rem, maiores dignissimos obcaecati maxime eum
-            laboriosam enim corrupti necessitatibus accusamus, ipsam repudiandae
-            provident natus vero aperiam dolorum nesciunt!
+            I am a software engineer with a passion for creating innovative
+            solutions to complex problems. With almost 2 years of experience in
+            the industry, I have a diverse skill set that includes
+            Java,React,SQL and spring. I am constantly seeking to improve my
+            skills and stay up-to-date with the latest developments in the
+            field. My ultimate goal is to build intuitive and efficient software
+            that makes a real difference in people's lives. Thank you for
+            visiting my page and feel free to reach out if you have any
+            questions or opportunities for collaboration
           </p>
           <a href="#contact" className="btn btn-primary">
             Lets Talk
